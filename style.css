@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: white;
+}
+#score{
+    margin-top: 50px;
+    margin-left: 50px;
+    font-weight: bold;
+}
+#timer{
+    margin-top: 125px;
+    margin-left: 50px;
+    font-weight: bold;
+}
+h3{
+    font-style: italic;
+}
